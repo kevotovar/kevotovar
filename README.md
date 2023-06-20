@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevotovar
 - 👀 I’m interested in Frontend/Backend topics
-- 📫 How to reach me  kevintovar@esiemz.mx
+- 📫 How to reach me  kevintovar@esimez.mx
 
 <!---
 kevotovar/kevotovar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
